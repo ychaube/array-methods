@@ -1,0 +1,14 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ychaube/array-methods.git",
+  "author": "ychaube <yogi4896@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
